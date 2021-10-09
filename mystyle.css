@@ -1,0 +1,89 @@
+body{
+   
+    color:cornflowerblue;
+    margin:auto;
+    font-family:cursive;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.class2{
+    color:cornflowerblue;
+    margin:auto;
+    font-family:cursive;
+    font-size:25px;
+    font-weight: bold;
+}
+
+#table {
+    color:cornflowerblue;
+}
+
+#card{
+    margin:auto;
+    font-family:cursive;
+    text-align:center;
+    margin:auto;
+    width:50%;
+    font-size:14px;
+    font-weight: bold;
+}
+#div,#footer{
+    box-shadow: 5px 10px 18px rgb(0, 0, 0);;
+    border-radius: 15px;
+}
+
+.carousel {
+    width:750px;
+    height:350px;
+}
+
+tr:nth-child(odd) {
+    color:cornflowerblue;
+}
+    
+img  {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 5px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+img video {
+    border: 1px solid #ddd;
+    background-color:rgb(176, 240, 245);
+    border-radius: 15px;
+    padding: 5px;
+    width: 150px;
+}  
+img:hover {
+    box-shadow: 5px 2px 2px 1px rgba(167, 167, 167, 0.918);
+}
+    
+audio:hover {
+    box-shadow: 5px 2px 2px 1px rgba(167, 167, 167, 0.918);
+}
+    
+video:hover {
+    box-shadow: 5px 2px 2px 1px rgba(167, 167, 167, 0.918);
+}
+
+a:hover {
+    background-color:rgb(248, 192, 243);
+}
+a:active{
+    color:rgb(247, 14, 14);
+    background-color:white;
+}
+
+#alert{
+   
+    color:cornflowerblue;
+    text-align: center;
+    font-family:cursive;
+    font-size:25px;
+    font-weight: bold;
+}
